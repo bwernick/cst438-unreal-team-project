@@ -5,7 +5,11 @@
 	"Description": "",
 	"Plugins": [
 		{
+<<<<<<< HEAD
 			"Name": "OnlineSubsystemSteam",
+=======
+			"Name": "GLTFImporter",
+>>>>>>> master
 			"Enabled": true
 		}
 	]
